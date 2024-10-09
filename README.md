@@ -1,6 +1,6 @@
-# ToDo-App-JavaScript
+# Todo-App-JavaScript
 
-This is a simple To-Do app built using HTML, CSS, and JavaScript. 
+This is a simple todo app built using HTML, CSS, and JavaScript. 
 It allows users to add tasks, edit existing tasks, delete specific tasks, search for tasks within the list, and mark tasks as completed.
 
 # Features
