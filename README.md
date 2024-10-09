@@ -18,7 +18,3 @@ It allows users to add tasks, edit existing tasks, delete specific tasks, search
 ***Clear all tasks*** : Users can clear all tasks in the list at once by clicking on the "Clear All" button or by pressing the delete button on the keyboard.
 
 ***Alert messages*** : Alert messages are displayed for various scenarios such as empty input, attempting to add duplicate tasks, or trying to delete tasks when the list is already empty.
-
-# Live Demo
-
-https://sahimbehlim.github.io/ToDo-App-JavaScript/
